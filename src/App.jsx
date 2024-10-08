@@ -61,8 +61,8 @@ function App() {
           </div>
         </div>
       </nav>
-      <section id="home-section" className="hero">
-        <div className="home-slider owl-carousel">
+      <section id="home-section" className="">
+        <div>
           <div className="slider-item">
             <div className="overlay" />
             <div className="container-fluid px-md-0">
@@ -78,7 +78,7 @@ function App() {
                   <div className="overlay-1" />
                 </div>
                 <div
-                  className="one-forth d-flex align-items-center ftco-animate"
+                  className="one-forth d-flex align-items-center "
                   data-scrollax=" properties: { translateY: '70%' }"
                 >
                   <div className="text">
@@ -117,7 +117,7 @@ function App() {
                   <div className="overlay-1" />
                 </div>
                 <div
-                  className="one-forth d-flex align-items-center ftco-animate"
+                  className="one-forth d-flex align-items-center "
                   data-scrollax=" properties: { translateY: '70%' }"
                 >
                   <div className="text">
@@ -125,7 +125,7 @@ function App() {
                       We Design &amp; Build Brands
                     </span>
                     <h1 className="mb-4 mt-3">
-                      Hi, I am <span>Clyde</span> This is my favorite work.
+                      Hi, I am <span>Grraffic</span> This is my favorite work.
                     </h1>
                     <p>
                       <a href="#" className="btn btn-primary">
@@ -148,7 +148,7 @@ function App() {
       <section className="ftco-counter img bg-light" id="section-counter">
         <div className="container">
           <div className="row">
-            <div className="col-md-3 justify-content-center counter-wrap ftco-animate">
+            <div className="col-md-3 justify-content-center counter-wrap ">
               <div className="block-18 d-flex">
                 <div className="icon d-flex justify-content-center align-items-center">
                   <span className="flaticon-suitcase" />
@@ -161,7 +161,7 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="col-md-3 justify-content-center counter-wrap ftco-animate">
+            <div className="col-md-3 justify-content-center counter-wrap ">
               <div className="block-18 d-flex">
                 <div className="icon d-flex justify-content-center align-items-center">
                   <span className="flaticon-loyalty" />
@@ -174,7 +174,7 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="col-md-3 justify-content-center counter-wrap ftco-animate">
+            <div className="col-md-3 justify-content-center counter-wrap ">
               <div className="block-18 d-flex">
                 <div className="icon d-flex justify-content-center align-items-center">
                   <span className="flaticon-coffee" />
@@ -187,7 +187,7 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="col-md-3 justify-content-center counter-wrap ftco-animate">
+            <div className="col-md-3 justify-content-center counter-wrap ">
               <div className="block-18 d-flex">
                 <div className="icon d-flex justify-content-center align-items-center">
                   <span className="flaticon-calendar" />
@@ -221,7 +221,7 @@ function App() {
             <div className="col-md-6 col-lg-7 pl-md-4 pl-lg-5 py-5">
               <div className="py-md-5">
                 <div className="row justify-content-start pb-3">
-                  <div className="col-md-12 heading-section ftco-animate">
+                  <div className="col-md-12 heading-section ">
                     <span className="subheading">My Intro</span>
                     <h2
                       className="mb-4"
@@ -235,7 +235,7 @@ function App() {
                       paradisematic country, in which roasted parts of sentences
                       fly into your mouth.
                     </p>
-                    <ul className="about-info mt-4 px-md-0 px-2">
+                    <ul>
                       <li className="d-flex">
                         <span>Name:</span> <span>Clyde Nowitzki</span>
                       </li>
@@ -295,7 +295,7 @@ function App() {
       <section className="ftco-section bg-light" id="skills-section">
         <div className="container">
           <div className="row justify-content-center pb-5">
-            <div className="col-md-12 heading-section text-center ftco-animate">
+            <div className="col-md-12 heading-section text-center ">
               <span className="subheading">Skills</span>
               <h2 className="mb-4">My Skills</h2>
               <p>
@@ -507,7 +507,7 @@ function App() {
       <section className="ftco-section" id="services-section">
         <div className="container">
           <div className="row justify-content-center">
-            <div className="col-md-12 heading-section text-center ftco-animate mb-5">
+            <div className="col-md-12 heading-section text-center  mb-5">
               <span className="subheading">I am grat at</span>
               <h2 className="mb-4">We do awesome services for our clients</h2>
               <p>
@@ -518,7 +518,7 @@ function App() {
           </div>
           <div className="row">
             <div className="col-md-6 col-lg-3">
-              <div className="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+              <div className="media block-6 services d-block bg-white rounded-lg shadow ">
                 <div className="icon d-flex align-items-center justify-content-center">
                   <span className="flaticon-3d-design" />
                 </div>
@@ -531,7 +531,7 @@ function App() {
               </div>
             </div>
             <div className="col-md-6 col-lg-3">
-              <div className="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+              <div className="media block-6 services d-block bg-white rounded-lg shadow ">
                 <div className="icon shadow d-flex align-items-center justify-content-center">
                   <span className="flaticon-app-development" />
                 </div>
@@ -544,7 +544,7 @@ function App() {
               </div>
             </div>
             <div className="col-md-6 col-lg-3">
-              <div className="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+              <div className="media block-6 services d-block bg-white rounded-lg shadow ">
                 <div className="icon shadow d-flex align-items-center justify-content-center">
                   <span className="flaticon-web-programming" />
                 </div>
@@ -557,7 +557,7 @@ function App() {
               </div>
             </div>
             <div className="col-md-6 col-lg-3">
-              <div className="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+              <div className="media block-6 services d-block bg-white rounded-lg shadow ">
                 <div className="icon shadow d-flex align-items-center justify-content-center">
                   <span className="flaticon-branding" />
                 </div>
@@ -572,7 +572,7 @@ function App() {
           </div>
           <div className="row">
             <div className="col-md-6 col-lg-3">
-              <div className="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+              <div className="media block-6 services d-block bg-white rounded-lg shadow ">
                 <div className="icon shadow d-flex align-items-center justify-content-center">
                   <span className="flaticon-computer" />
                 </div>
@@ -585,7 +585,7 @@ function App() {
               </div>
             </div>
             <div className="col-md-6 col-lg-3">
-              <div className="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+              <div className="media block-6 services d-block bg-white rounded-lg shadow ">
                 <div className="icon shadow d-flex align-items-center justify-content-center">
                   <span className="flaticon-vector" />
                 </div>
@@ -598,7 +598,7 @@ function App() {
               </div>
             </div>
             <div className="col-md-6 col-lg-3">
-              <div className="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+              <div className="media block-6 services d-block bg-white rounded-lg shadow ">
                 <div className="icon shadow d-flex align-items-center justify-content-center">
                   <span className="flaticon-vector" />
                 </div>
@@ -611,7 +611,7 @@ function App() {
               </div>
             </div>
             <div className="col-md-6 col-lg-3">
-              <div className="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
+              <div className="media block-6 services d-block bg-white rounded-lg shadow ">
                 <div className="icon shadow d-flex align-items-center justify-content-center">
                   <span className="flaticon-zoom" />
                 </div>
@@ -647,7 +647,7 @@ function App() {
             <div className="col-md-4 col-lg-4 d-flex align-items-end">
               <img
                 src="assets/images/author.png"
-                className="img-fluid"
+                // className="img-fluid"
                 alt=""
               />
             </div>
@@ -657,7 +657,7 @@ function App() {
       <section className="ftco-section ftco-project" id="projects-section">
         <div className="container-fluid px-md-4">
           <div className="row justify-content-center pb-5">
-            <div className="col-md-12 heading-section text-center ftco-animate">
+            <div className="col-md-12 heading-section text-center ">
               <span className="subheading">Accomplishments</span>
               <h2 className="mb-4">Our Projects</h2>
               <p>
@@ -669,7 +669,7 @@ function App() {
           <div className="row">
             <div className="col-md-3">
               <div
-                className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
+                className="project img shadow  d-flex justify-content-center align-items-center"
                 style={{ backgroundImage: "url(assets/images/work-1.jpg)" }}
               >
                 <div className="overlay" />
@@ -683,7 +683,7 @@ function App() {
             </div>
             <div className="col-md-3">
               <div
-                className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
+                className="project img shadow  d-flex justify-content-center align-items-center"
                 style={{ backgroundImage: "url(assets/images/work-2.jpg)" }}
               >
                 <div className="overlay" />
@@ -697,7 +697,7 @@ function App() {
             </div>
             <div className="col-md-3">
               <div
-                className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
+                className="project img shadow  d-flex justify-content-center align-items-center"
                 style={{ backgroundImage: "url(assets/images/work-3.jpg)" }}
               >
                 <div className="overlay" />
@@ -711,7 +711,7 @@ function App() {
             </div>
             <div className="col-md-3">
               <div
-                className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
+                className="project img shadow  d-flex justify-content-center align-items-center"
                 style={{ backgroundImage: "url(assets/images/work-4.jpg)" }}
               >
                 <div className="overlay" />
@@ -725,7 +725,7 @@ function App() {
             </div>
             <div className="col-md-3">
               <div
-                className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
+                className="project img shadow  d-flex justify-content-center align-items-center"
                 style={{ backgroundImage: "url(assets/images/work-5.jpg)" }}
               >
                 <div className="overlay" />
@@ -739,7 +739,7 @@ function App() {
             </div>
             <div className="col-md-3">
               <div
-                className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
+                className="project img shadow  d-flex justify-content-center align-items-center"
                 style={{ backgroundImage: "url(assets/images/work-6.jpg)" }}
               >
                 <div className="overlay" />
@@ -753,7 +753,7 @@ function App() {
             </div>
             <div className="col-md-3">
               <div
-                className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
+                className="project img shadow d-flex justify-content-center align-items-center"
                 style={{ backgroundImage: "url(assets/images/work-7.jpg)" }}
               >
                 <div className="overlay" />
@@ -767,7 +767,7 @@ function App() {
             </div>
             <div className="col-md-3">
               <div
-                className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
+                className="project img shadow  d-flex justify-content-center align-items-center"
                 style={{ backgroundImage: "url(assets/images/work-8.jpg)" }}
               >
                 <div className="overlay" />
@@ -785,7 +785,7 @@ function App() {
       <section className="ftco-section testimony-section bg-primary">
         <div className="container">
           <div className="row justify-content-center pb-5">
-            <div className="col-md-12 heading-section heading-section-white text-center ftco-animate">
+            <div className="col-md-12 heading-section heading-section-white text-center ">
               <span className="subheading">Testimonies</span>
               <h2 className="mb-4">What client says about?</h2>
               <p>
@@ -794,7 +794,7 @@ function App() {
               </p>
             </div>
           </div>
-          <div className="row ftco-animate">
+          <div className="row ">
             <div className="col-md-12">
               <div className="carousel-testimony owl-carousel">
                 <div className="item">
@@ -882,7 +882,7 @@ function App() {
                         <div
                           className="user-img"
                           style={{
-                            backgroundImage: "url(assets/images/person_1.jpg)",
+                            backgroundImage: "url(assets/images/work-8.jpg)",
                           }}
                         />
                         <div className="pl-3">
@@ -925,7 +925,7 @@ function App() {
       <section className="ftco-section bg-light" id="blog-section">
         <div className="container">
           <div className="row justify-content-center mb-5 pb-5">
-            <div className="col-md-7 heading-section text-center ftco-animate">
+            <div className="col-md-7 heading-section text-center ">
               <span className="subheading">Blog</span>
               <h2 className="mb-4">Our Blog</h2>
               <p>
@@ -935,12 +935,14 @@ function App() {
             </div>
           </div>
           <div className="row d-flex">
-            <div className="col-md-4 d-flex ftco-animate">
+            <div className="col-md-4 d-flex ">
               <div className="blog-entry justify-content-end">
                 <a
                   href="single.html"
                   className="block-20"
-                  style={{ backgroundImage: 'url("images/image_1.jpg")' }}
+                  style={{
+                    backgroundImage: 'url("assets/images/image_1.jpg")',
+                  }}
                 ></a>
                 <div className="text mt-3 float-right d-block">
                   <div className="d-flex align-items-center mb-3 meta">
@@ -966,12 +968,14 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="col-md-4 d-flex ftco-animate">
+            <div className="col-md-4 d-flex ">
               <div className="blog-entry justify-content-end">
                 <a
                   href="single.html"
                   className="block-20"
-                  style={{ backgroundImage: 'url("images/image_2.jpg")' }}
+                  style={{
+                    backgroundImage: 'url("assets/images/image_2.jpg")',
+                  }}
                 ></a>
                 <div className="text mt-3 float-right d-block">
                   <div className="d-flex align-items-center mb-3 meta">
@@ -997,12 +1001,14 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="col-md-4 d-flex ftco-animate">
+            <div className="col-md-4 d-flex ">
               <div className="blog-entry">
                 <a
                   href="single.html"
                   className="block-20"
-                  style={{ backgroundImage: 'url("images/image_3.jpg")' }}
+                  style={{
+                    backgroundImage: 'url("assets/images/image_3.jpg")',
+                  }}
                 ></a>
                 <div className="text mt-3 float-right d-block">
                   <div className="d-flex align-items-center mb-3 meta">
@@ -1037,7 +1043,7 @@ function App() {
       >
         <div className="container">
           <div className="row justify-content-center mb-5 pb-3">
-            <div className="col-md-7 heading-section text-center ftco-animate">
+            <div className="col-md-7 heading-section text-center ">
               <span className="subheading">Contact us</span>
               <h2 className="mb-4">Have a Project?</h2>
               <p>
@@ -1271,17 +1277,17 @@ function App() {
                   </ul>
                 </div>
                 <ul className="ftco-footer-social list-unstyled mt-2">
-                  <li className="ftco-animate">
+                  <li className="">
                     <a href="#">
                       <span className="fa fa-twitter" />
                     </a>
                   </li>
-                  <li className="ftco-animate">
+                  <li className="">
                     <a href="#">
                       <span className="fa fa-facebook" />
                     </a>
                   </li>
-                  <li className="ftco-animate">
+                  <li className="">
                     <a href="#">
                       <span className="fa fa-instagram" />
                     </a>
