@@ -237,24 +237,23 @@ function App() {
                     </p>
                     <ul>
                       <li className="d-flex">
-                        <span>Name:</span> <span>Clyde Nowitzki</span>
+                        <span>Name:</span> <span>Rafael Ramos</span>
                       </li>
                       <li className="d-flex">
-                        <span>Date of birth:</span>{" "}
-                        <span>January 01, 1990</span>
+                        <span>Date of birth:</span> <span>May 11, 2004</span>
                       </li>
                       <li className="d-flex">
                         <span>Address:</span>
-                        <span>San Francisco CA 97987 USA</span>
+                        <span>011 San Miguel Grp 13 Payatas B Q.C</span>
                       </li>
                       <li className="d-flex">
-                        <span>Zip code:</span> <span>1000</span>
+                        <span>Zip code:</span> <span>1119</span>
                       </li>
                       <li className="d-flex">
-                        <span>Email:</span> <span>cydenowitzki@gmail.com</span>
+                        <span>Email:</span> <span>ramosraf278gmail.com</span>
                       </li>
                       <li className="d-flex">
-                        <span>Phone: </span> <span>+1-2234-5678-9-0</span>
+                        <span>Phone: </span> <span>+639651221953</span>
                       </li>
                     </ul>
                   </div>
@@ -796,7 +795,7 @@ function App() {
           </div>
           <div className="row ">
             <div className="col-md-12">
-              <div className="carousel-testimony owl-carousel">
+              <div>
                 <div className="item">
                   <div className="testimony-wrap py-4">
                     <div className="text">
