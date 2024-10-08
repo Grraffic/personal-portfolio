@@ -7,7 +7,7 @@ function App() {
       >
         <div className="container">
           <a className="navbar-brand" href="index.html">
-            Clyde<span>.</span>
+            Grraffic<span>.</span>
           </a>
           <button
             className="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle"
@@ -72,24 +72,24 @@ function App() {
               >
                 <div
                   className="one-third order-md-last img"
-                  style={{ backgroundImage: "url(images/bg_1.jpg)" }}
+                  style={{ backgroundImage: "url(/assets/images/bg_1.jpg)" }}
                 >
                   <div className="overlay" />
                   <div className="overlay-1" />
                 </div>
                 <div
-                  className="one-forth d-flex  align-items-center ftco-animate"
+                  className="one-forth d-flex align-items-center ftco-animate"
                   data-scrollax=" properties: { translateY: '70%' }"
                 >
                   <div className="text">
-                    <span className="subheading">Hello! This is Clyde</span>
+                    <span className="subheading">Hello! This is Grraffic</span>
                     <h1 className="mb-4 mt-3">
                       Creative <span>UI/UX</span> Designer &amp; Developer
                     </h1>
                     <p>
                       <a href="#" className="btn btn-primary">
                         Hire me
-                      </a>{" "}
+                      </a>
                       <a
                         href="#"
                         className="btn btn-primary btn-outline-primary"
@@ -111,7 +111,7 @@ function App() {
               >
                 <div
                   className="one-third order-md-last img"
-                  style={{ backgroundImage: "url(images/bg_2.jpg)" }}
+                  style={{ backgroundImage: "url(/assets/images/bg_2.jpg)" }}
                 >
                   <div className="overlay" />
                   <div className="overlay-1" />
@@ -130,7 +130,7 @@ function App() {
                     <p>
                       <a href="#" className="btn btn-primary">
                         Hire me
-                      </a>{" "}
+                      </a>
                       <a
                         href="#"
                         className="btn btn-primary btn-outline-primary"
@@ -214,8 +214,8 @@ function App() {
                 <div className="overlay" />
                 <div
                   className="img d-flex align-self-stretch align-items-center"
-                  style={{ backgroundImage: "url(images/about-1.jpg)" }}
-                ></div>
+                  style={{ backgroundImage: "url(assets/images/about-1.jpg)" }}
+                />
               </div>
             </div>
             <div className="col-md-6 col-lg-7 pl-md-4 pl-lg-5 py-5">
@@ -244,7 +244,7 @@ function App() {
                         <span>January 01, 1990</span>
                       </li>
                       <li className="d-flex">
-                        <span>Address:</span>{" "}
+                        <span>Address:</span>
                         <span>San Francisco CA 97987 USA</span>
                       </li>
                       <li className="d-flex">
@@ -645,7 +645,11 @@ function App() {
               </div>
             </div>
             <div className="col-md-4 col-lg-4 d-flex align-items-end">
-              <img src="images/author.png" className="img-fluid" alt="" />
+              <img
+                src="assets/images/author.png"
+                className="img-fluid"
+                alt=""
+              />
             </div>
           </div>
         </div>
@@ -666,7 +670,7 @@ function App() {
             <div className="col-md-3">
               <div
                 className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
-                style={{ backgroundImage: "url(images/work-1.jpg)" }}
+                style={{ backgroundImage: "url(assets/images/work-1.jpg)" }}
               >
                 <div className="overlay" />
                 <div className="text text-center p-4">
@@ -680,7 +684,7 @@ function App() {
             <div className="col-md-3">
               <div
                 className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
-                style={{ backgroundImage: "url(images/work-2.jpg)" }}
+                style={{ backgroundImage: "url(assets/images/work-2.jpg)" }}
               >
                 <div className="overlay" />
                 <div className="text text-center p-4">
@@ -694,7 +698,7 @@ function App() {
             <div className="col-md-3">
               <div
                 className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
-                style={{ backgroundImage: "url(images/work-3.jpg)" }}
+                style={{ backgroundImage: "url(assets/images/work-3.jpg)" }}
               >
                 <div className="overlay" />
                 <div className="text text-center p-4">
@@ -708,7 +712,7 @@ function App() {
             <div className="col-md-3">
               <div
                 className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
-                style={{ backgroundImage: "url(images/work-4.jpg)" }}
+                style={{ backgroundImage: "url(assets/images/work-4.jpg)" }}
               >
                 <div className="overlay" />
                 <div className="text text-center p-4">
@@ -722,7 +726,7 @@ function App() {
             <div className="col-md-3">
               <div
                 className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
-                style={{ backgroundImage: "url(images/work-5.jpg)" }}
+                style={{ backgroundImage: "url(assets/images/work-5.jpg)" }}
               >
                 <div className="overlay" />
                 <div className="text text-center p-4">
@@ -736,7 +740,7 @@ function App() {
             <div className="col-md-3">
               <div
                 className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
-                style={{ backgroundImage: "url(images/work-6.jpg)" }}
+                style={{ backgroundImage: "url(assets/images/work-6.jpg)" }}
               >
                 <div className="overlay" />
                 <div className="text text-center p-4">
@@ -750,7 +754,7 @@ function App() {
             <div className="col-md-3">
               <div
                 className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
-                style={{ backgroundImage: "url(images/work-7.jpg)" }}
+                style={{ backgroundImage: "url(assets/images/work-7.jpg)" }}
               >
                 <div className="overlay" />
                 <div className="text text-center p-4">
@@ -764,7 +768,7 @@ function App() {
             <div className="col-md-3">
               <div
                 className="project img shadow ftco-animate d-flex justify-content-center align-items-center"
-                style={{ backgroundImage: "url(images/work-8.jpg)" }}
+                style={{ backgroundImage: "url(assets/images/work-8.jpg)" }}
               >
                 <div className="overlay" />
                 <div className="text text-center p-4">
@@ -806,7 +810,7 @@ function App() {
                         <div
                           className="user-img"
                           style={{
-                            backgroundImage: "url(images/person_1.jpg)",
+                            backgroundImage: "url(assets/images/person_1.jpg)",
                           }}
                         />
                         <div className="pl-3">
@@ -830,7 +834,7 @@ function App() {
                         <div
                           className="user-img"
                           style={{
-                            backgroundImage: "url(images/person_2.jpg)",
+                            backgroundImage: "url(assets/images/person_2.jpg)",
                           }}
                         />
                         <div className="pl-3">
@@ -854,7 +858,7 @@ function App() {
                         <div
                           className="user-img"
                           style={{
-                            backgroundImage: "url(images/person_3.jpg)",
+                            backgroundImage: "url(assets/images/person_3.jpg)",
                           }}
                         />
                         <div className="pl-3">
@@ -878,7 +882,7 @@ function App() {
                         <div
                           className="user-img"
                           style={{
-                            backgroundImage: "url(images/person_1.jpg)",
+                            backgroundImage: "url(assets/images/person_1.jpg)",
                           }}
                         />
                         <div className="pl-3">
@@ -902,7 +906,7 @@ function App() {
                         <div
                           className="user-img"
                           style={{
-                            backgroundImage: "url(images/person_2.jpg)",
+                            backgroundImage: "url(assets/images/person_2.jpg)",
                           }}
                         />
                         <div className="pl-3">
@@ -1117,7 +1121,7 @@ function App() {
                   </div>
                   <div className="text">
                     <p>
-                      <span>Phone:</span>{" "}
+                      <span>Phone:</span>
                       <a href="tel://1234567920">+ 1235 2355 98</a>
                     </p>
                   </div>
@@ -1128,7 +1132,7 @@ function App() {
                   </div>
                   <div className="text">
                     <p>
-                      <span>Email:</span>{" "}
+                      <span>Email:</span>
                       <a href="mailto:info@yoursite.com">info@yoursite.com</a>
                     </p>
                   </div>
@@ -1290,8 +1294,8 @@ function App() {
             <div className="col-md-12 text-center">
               <p>
                 {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                Copyright © All rights reserved | This template is made with{" "}
-                <i className="fa fa-heart" aria-hidden="true" /> by{" "}
+                Copyright © All rights reserved | This template is made with
+                <i className="fa fa-heart" aria-hidden="true" /> by
                 <a href="https://colorlib.com" target="_blank">
                   Colorlib
                 </a>
@@ -1301,30 +1305,6 @@ function App() {
           </div>
         </div>
       </footer>
-      {/* loader */}
-      {/* <div id="ftco-loader" className="show fullscreen">
-        <svg className="circular" width="48px" height="48px">
-          <circle
-            className="path-bg"
-            cx={24}
-            cy={24}
-            r={22}
-            fill="none"
-            strokeWidth={4}
-            stroke="#eeeeee"
-          />
-          <circle
-            className="path"
-            cx={24}
-            cy={24}
-            r={22}
-            fill="none"
-            strokeWidth={4}
-            strokeMiterlimit={10}
-            stroke="#F96D00"
-          />
-        </svg>
-      </div> */}
     </>
   );
 }
