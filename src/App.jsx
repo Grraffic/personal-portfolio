@@ -199,19 +199,7 @@ function App() {
                 <div className="col-md-6">
                   <div className="edu-col">
                     <span>
-                      01-August-2022 <i>to</i> 17-July-2024
-                    </span>
-                    <h3>Associate Degree</h3>
-                    <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
-                    </p>
-                  </div>
-                </div>
-                <div className="col-md-6">
-                  <div className="edu-col">
-                    <span>
-                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                      01-August-2022 <i>to</i> 17-July-2026
                     </span>
                     <h3>Bachelor Degree</h3>
                     <p>
@@ -223,7 +211,7 @@ function App() {
                 <div className="col-md-6">
                   <div className="edu-col">
                     <span>
-                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                      01-Aug-2022 <i>to</i> 17-Jul-2024
                     </span>
                     <h3>Associate Degree</h3>
                     <p>
@@ -235,7 +223,19 @@ function App() {
                 <div className="col-md-6">
                   <div className="edu-col">
                     <span>
-                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                      01-August-2020 <i>to</i> 31-April-2022
+                    </span>
+                    <h3>Senior Highschool</h3>
+                    <p>
+                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
+                      molestie velit id libero.
+                    </p>
+                  </div>
+                </div>
+                <div className="col-md-6">
+                  <div className="edu-col">
+                    <span>
+                      01-June-2016 <i>to</i> 31-April-2020
                     </span>
                     <h3>High School</h3>
                     <p>
