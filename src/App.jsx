@@ -90,11 +90,11 @@ function App() {
           {/* Large Button Start */}
           <div className="large-btn">
             <div className="content-inner">
-              <a className="btn" href="#">
+              <a className="btn" href="/src/Resume.pdf">
                 <i className="fa fa-download" />
                 Resume
               </a>
-              <a className="btn" href="#">
+              <a className="btn" href="/src/Resume.pdf">
                 <i className="fa fa-hands-helping" />
                 Hire Me
               </a>
