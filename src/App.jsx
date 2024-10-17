@@ -113,7 +113,7 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-7">
                   <p>
-                    Hello! I’m Rafael S. Ramos, a passionate designer and
+                    Hello, I’m Rafael S. Ramos, a passionate designer and
                     programmer dedicated to creating seamless user experiences.
                     With a background in both graphic design and software
                     development, I thrive at the intersection of creativity and
@@ -199,48 +199,52 @@ function App() {
                 <div className="col-md-6">
                   <div className="edu-col">
                     <span>
-                      01-August-2022 <i>to</i> 17-July-2024
-                    </span>
-                    <h3>Associate Degree</h3>
-                    <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
-                    </p>
-                  </div>
-                </div>
-                <div className="col-md-6">
-                  <div className="edu-col">
-                    <span>
-                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                      01-September-2022 <i>to</i> 17-July-2026
                     </span>
                     <h3>Bachelor Degree</h3>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      I earned my Bachelor of Science in Information Systems,
+                      where I delved into the integration of technology and
+                      business processes.
                     </p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="edu-col">
                     <span>
-                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                      01-September-2022 <i>to</i> 17-July-2024
                     </span>
                     <h3>Associate Degree</h3>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      I obtained an Associate Degree in Computer Technology,
+                      focusing on foundational skills in computer hardware,
+                      software, and networking.
                     </p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="edu-col">
                     <span>
-                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                      10-August-2020 <i>to</i> 31-April-2022
+                    </span>
+                    <h3>Senior High School</h3>
+                    <p>
+                      I completed my Senior High School education with a focus
+                      on the ICT strand, where I delved into topics like
+                      programming, web development, and digital communication.
+                    </p>
+                  </div>
+                </div>
+                <div className="col-md-6">
+                  <div className="edu-col">
+                    <span>
+                      05-June-2016 <i>to</i> 20-April-2020
                     </span>
                     <h3>High School</h3>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      I graduated from High School, where I developed a strong
+                      foundation in various subjects while engaging in
+                      extracurricular activities.
                     </p>
                   </div>
                 </div>
@@ -394,7 +398,7 @@ function App() {
                         alt=""
                       />
                       <a
-                        href="./assets/img/portfolio-1.jpg"
+                        href="./assets/img/GET STARTED.jpg"
                         data-lightbox="portfolio"
                         data-title="Project Name"
                         className="link-preview"
@@ -402,11 +406,15 @@ function App() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="#" className="link-details" title="More Details">
+                      <a
+                        href="https://www.figma.com/proto/j7CIDPusIc5JjtwMW9lcnG/Untitled?node-id=0-1&t=MjfAKoTXD8FNtVAS-1"
+                        className="link-details"
+                        title="More Details"
+                      >
                         <i className="fa fa-link" />
                       </a>
                       <a className="portfolio-title" href="#">
-                        Project Name <span>Web Design</span>
+                        Daniel's Coffee <span>Web Design</span>
                       </a>
                     </figure>
                   </div>
