@@ -78,7 +78,9 @@ function App() {
           <div className="header" id="header">
             <div className="content-inner">
               <p>I'm</p>
-              <h1>Grraffic Designer</h1>
+              <h1>
+                <span className="user">Grraffic</span> Designer
+              </h1>
               <h2 />
               <div className="typed-text">
                 Web Designer, Web Developer, Front End Developer, Apps
