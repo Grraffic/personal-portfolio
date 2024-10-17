@@ -171,7 +171,7 @@ function App() {
                       />
                     </div>
                     <div className="skill-name">
-                      <p>Marketing</p>
+                      <p>Video Editing</p>
                       <p>85%</p>
                     </div>
                     <div className="progress">
