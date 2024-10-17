@@ -214,7 +214,7 @@ a:focus {
   }
 
   .sidebar .sidebar-footer a:hover {
-    color: #ff6f61;
+    color: #f6d155;
     background: #ffffff;
   }
 
@@ -411,6 +411,11 @@ a:focus {
   margin: 0;
 }
 
+.FS {
+  color: #020617;
+  font-weight: bold;
+}
+
 .content-header::after {
   content: "";
   position: absolute;
@@ -469,6 +474,7 @@ a:focus {
   font-size: 16px;
   font-weight: 900;
   margin-left: 3px;
+  color: #020617;
 }
 
 .about .skill-name p:last-c ild {
@@ -576,8 +582,8 @@ a:focus {
   position: relative;
   width: 100%;
   padding: 20px 0 20px 20px;
-  border-left: 1px solid #ff6f61;
-  border-bottom: 1px solid #ff6f61;
+  border-left: 2px solid #f6d155;
+  border-bottom: 2px solid #f6d155;
 }
 
 .experience .col-md-6:first-child .exp-col {
@@ -614,14 +620,14 @@ a:focus {
   content: "";
   width: 11px;
   height: 11px;
-  background: #ff6f61;
+  background: #f6d155;
   top: 5px;
   left: -26px;
   border-radius: 5px;
 }
 
 .experience .exp-col span i {
-  color: #ff6f61;
+  color: #f6d155;
 }
 
 .experience .exp-col h3 {
@@ -629,6 +635,7 @@ a:focus {
   font-weight: 700;
   letter-spacing: 2px;
   margin-bottom: 5px;
+  color: #020617;
 }
 
 .experience .exp-col h4 {
@@ -636,12 +643,14 @@ a:focus {
   font-weight: 400;
   font-style: italic;
   margin-bottom: 5px;
+  color: #222222;
 }
 
 .experience .exp-col h5 {
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 10px;
+  color: #020617;
 }
 
 .experience .exp-col p {
@@ -675,6 +684,7 @@ a:focus {
   font-weight: 700;
   letter-spacing: 2px;
   margin-bottom: 5px;
+  color: #020617;
 }
 
 .experience .exp-col h4 {
@@ -721,14 +731,14 @@ a:focus {
   font-size: 13px;
   line-height: 15px;
   text-transform: uppercase;
-  border: 1px solid #ff6f61;
+  border: 1px solid #f6d155;
   background: #ffffff;
   transition: all 0.3s ease-in-out;
 }
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #ff6f61;
+  background: #f6d155;
   color: #222222;
 }
 
@@ -878,11 +888,13 @@ a:focus {
   font-weight: 700;
   letter-spacing: 2px;
   margin-bottom: 5px;
+  color: #020617;
 }
 
 .review .review-name p {
   font-size: 14px;
   margin-bottom: 0;
+  color: #222222;
 }
 
 .review .review-text .ratting {
@@ -1001,7 +1013,7 @@ a:focus {
 
 .contact .contact-info p i {
   width: 25px;
-  color: #ff6f61;
+  color: #020617;
 }
 
 .contact .contact-info p a {
@@ -1009,7 +1021,7 @@ a:focus {
 }
 
 .contact .contact-info p a:hover {
-  color: #ff6f61;
+  color: #f6d155;
   text-decoration: none;
 }
 
@@ -1022,7 +1034,7 @@ a:focus {
   height: 35px;
   padding: 5px 0;
   color: #222222;
-  background: #ff6f61;
+  background: #f6d155;
   border-radius: 0;
   margin-top: 15px;
   margin-right: 15px;
@@ -1034,7 +1046,7 @@ a:focus {
 }
 
 .contact .social a:hover {
-  color: #ff6f61;
+  color: #fafafa;
   background: #222222;
 }
 
@@ -1050,18 +1062,18 @@ a:focus {
 
 .contact .form .form-control:focus {
   box-shadow: none;
-  border-color: #ff6f61;
+  border-color: #f6d155;
 }
 
 .contact .form .btn {
   color: #222222;
-  background: #ff6f61;
+  background: #f6d155;
   border-radius: 0;
   transition: all 0.3s;
 }
 
 .contact .form .btn:hover {
-  color: #ff6f61;
+  color: #fafafa;
   background: #222222;
 }
 

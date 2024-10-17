@@ -94,7 +94,7 @@ function App() {
                 <i className="fa fa-download" />
                 Resume
               </a>
-              <a className="btn" href="#">
+              <a className="btn" href="https://github.com/Grraffic">
                 <i className="fa fa-hands-helping" />
                 Hire Me
               </a>
@@ -113,11 +113,11 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-7">
                   <p>
-                    Hello, I’m Rafael S. Ramos, a passionate designer and
-                    programmer dedicated to creating seamless user experiences.
-                    With a background in both graphic design and software
-                    development, I thrive at the intersection of creativity and
-                    technology.
+                    Hello, I’m <span className="FS">Rafael S. Ramos</span>, a
+                    passionate designer and programmer dedicated to creating
+                    seamless user experiences. With a background in both graphic
+                    design and software development, I thrive at the
+                    intersection of creativity and technology.
                   </p>
                   <a className="btn" href="#">
                     Hire Me
@@ -262,56 +262,61 @@ function App() {
                 <div className="col-md-6">
                   <div className="exp-col">
                     <span>
-                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                      01-Aug-2023 <i>to</i> 31-May-2024
                     </span>
-                    <h3>Codex Solution</h3>
-                    <h4>San Francisco, CA</h4>
-                    <h5>Project Manager</h5>
+                    <h3>Designer</h3>
+                    <h4>La Verdad Christian College Inc.</h4>
+                    <h5>Graphic Design</h5>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      As a passionate graphic designer with 4 years of
+                      experience, I specialize in creating visually compelling
+                      designs that effectively communicate brand messages.
                     </p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="exp-col">
                     <span>
-                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                      30-Dec-2022 <i>to</i> 21-Aug-2024
                     </span>
-                    <h3>Soft Solution Ltd</h3>
-                    <h4>San Francisco, CA</h4>
-                    <h5>Web Developer</h5>
+                    <h3>Videographer</h3>
+                    <h4>La Verdad Christian College Inc.</h4>
+                    <h5>Video Editing</h5>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      As a skilled videographer and video editor with 2 years of
+                      experience, I specialize in capturing compelling visuals
+                      and crafting engaging narratives.
                     </p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="exp-col">
                     <span>
-                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                      01-Nov-2022 <i>to</i> 15-Jan-2023
                     </span>
-                    <h3>ABC Soft Ltd</h3>
-                    <h4>San Francisco, CA</h4>
+                    <h3>Daniel's Coffee</h3>
+                    <h4>La Verdad Christian College Inc.</h4>
                     <h5>Web Designer</h5>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      As a creative and detail-oriented web designer with 2
+                      years of experience, I specialize in creating visually
+                      appealing and user-friendly websites that enhance brand
+                      presence.
                     </p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="exp-col">
                     <span>
-                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                      01-Jan-2023 <i>to</i> 31-May-2024
                     </span>
-                    <h3>Soft Agency</h3>
-                    <h4>San Francisco, CA</h4>
-                    <h5>Graphic Designer</h5>
+                    <h3>Daniel's Coffee</h3>
+                    <h4>La Verdad Christian College Inc.</h4>
+                    <h5>Web Developer</h5>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      As a dedicated web developer with 2 years of experience, I
+                      specialize in building robust and scalable websites and
+                      applications.
                     </p>
                   </div>
                 </div>
@@ -331,8 +336,9 @@ function App() {
                     <i className="fa fa-desktop" />
                     <h3>Web Design</h3>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      As a passionate web designer, I specialize in crafting
+                      visually striking and user-friendly websites tailored to
+                      your brand’s identity.
                     </p>
                   </div>
                 </div>
@@ -341,28 +347,30 @@ function App() {
                     <i className="fa fa-laptop" />
                     <h3>Web Development</h3>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      As a dedicated web developer, I offer comprehensive web
+                      development services tailored to meet your unique needs.
                     </p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="srv-col">
                     <i className="fa fa-search" />
-                    <h3>SEO</h3>
+                    <h3>Graphic Design</h3>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      As a passionate graphic designer, I specialize in creating
+                      captivating designs that resonate with audiences and
+                      elevate brands.
                     </p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="srv-col">
                     <i className="fa fa-envelope-open-text" />
-                    <h3>Digital Marketing</h3>
+                    <h3>Video Editing</h3>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      As a skilled video editor, I offer professional video
+                      editing services that enhance your content and captivate
+                      your audience.
                     </p>
                   </div>
                 </div>
@@ -384,7 +392,7 @@ function App() {
                     </li>
                     <li data-filter=".web-des">Design</li>
                     <li data-filter=".web-dev">Development</li>
-                    <li data-filter=".dig-mar">Marketing</li>
+                    <li data-filter=".dig-mar">Video Editing</li>
                   </ul>
                 </div>
               </div>
@@ -423,12 +431,42 @@ function App() {
                   <div className="portfolio-wrap">
                     <figure>
                       <img
-                        src="./assets/img/portfolio-2.jpg"
+                        src="./assets/img/Food.png"
                         className="img-fluid"
                         alt=""
                       />
                       <a
-                        href="./assets/img/portfolio-2.jpg"
+                        href="./assets/img/Food.png"
+                        data-lightbox="portfolio"
+                        data-title="Project Name"
+                        className="link-preview"
+                        title="Preview"
+                      >
+                        <i className="fa fa-eye" />
+                      </a>
+                      <a
+                        href="https://foodwebo.netlify.app/"
+                        className="link-details"
+                        title="More Details"
+                      >
+                        <i className="fa fa-link" />
+                      </a>
+                      <a className="portfolio-title" href="#">
+                        Food Website <span>Web Development</span>
+                      </a>
+                    </figure>
+                  </div>
+                </div>
+                <div className="col-lg-4 col-md-6 portfolio-item web-des">
+                  <div className="portfolio-wrap">
+                    <figure>
+                      <img
+                        src="./assets/img/Daniels.png"
+                        className="img-fluid"
+                        alt=""
+                      />
+                      <a
+                        href="./assets/img/Daniels.png"
                         className="link-preview"
                         data-lightbox="portfolio"
                         data-title="Project Name"
@@ -436,11 +474,15 @@ function App() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="#" className="link-details" title="More Details">
+                      <a
+                        href="https://github.com/Grraffic/Danie-s-Coffee"
+                        className="link-details"
+                        title="More Details"
+                      >
                         <i className="fa fa-link" />
                       </a>
                       <a className="portfolio-title" href="#">
-                        Project Name <span>Web Design</span>
+                        Daniel's Coffee Website <span>Web Development</span>
                       </a>
                     </figure>
                   </div>
@@ -449,12 +491,12 @@ function App() {
                   <div className="portfolio-wrap">
                     <figure>
                       <img
-                        src="./assets/img/portfolio-3.jpg"
+                        src="./assets/img/Personal.png"
                         className="img-fluid"
                         alt=""
                       />
                       <a
-                        href="./assets/img/portfolio-3.jpg"
+                        href="./assets/img/Personal.png"
                         className="link-preview"
                         data-lightbox="portfolio"
                         data-title="Project Name"
@@ -462,89 +504,15 @@ function App() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="#" className="link-details" title="More Details">
-                        <i className="fa fa-link" />
-                      </a>
-                      <a className="portfolio-title" href="#">
-                        Project Name <span>Web Development</span>
-                      </a>
-                    </figure>
-                  </div>
-                </div>
-                <div className="col-lg-4 col-md-6 portfolio-item web-dev">
-                  <div className="portfolio-wrap">
-                    <figure>
-                      <img
-                        src="./assets/img/portfolio-4.jpg"
-                        className="img-fluid"
-                        alt=""
-                      />
                       <a
-                        href="./assets/img/portfolio-4.jpg"
-                        className="link-preview"
-                        data-lightbox="portfolio"
-                        data-title="Project Name"
-                        title="Preview"
+                        href="https://lvcc-rafael-ramos.netlify.app/#"
+                        className="link-details"
+                        title="More Details"
                       >
-                        <i className="fa fa-eye" />
-                      </a>
-                      <a href="#" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
                       <a className="portfolio-title" href="#">
-                        Project Name <span>Web Development</span>
-                      </a>
-                    </figure>
-                  </div>
-                </div>
-                <div className="col-lg-4 col-md-6 portfolio-item dig-mar">
-                  <div className="portfolio-wrap">
-                    <figure>
-                      <img
-                        src="./assets/img/portfolio-5.jpg"
-                        className="img-fluid"
-                        alt=""
-                      />
-                      <a
-                        href="./assets/img/portfolio-5.jpg"
-                        className="link-preview"
-                        data-lightbox="portfolio"
-                        data-title="Project Name"
-                        title="Preview"
-                      >
-                        <i className="fa fa-eye" />
-                      </a>
-                      <a href="#" className="link-details" title="More Details">
-                        <i className="fa fa-link" />
-                      </a>
-                      <a className="portfolio-title" href="#">
-                        Project Name <span>Digital Marketing</span>
-                      </a>
-                    </figure>
-                  </div>
-                </div>
-                <div className="col-lg-4 col-md-6 portfolio-item dig-mar">
-                  <div className="portfolio-wrap">
-                    <figure>
-                      <img
-                        src="./assets/img/portfolio-6.jpg"
-                        className="img-fluid"
-                        alt=""
-                      />
-                      <a
-                        href="./assets/img/portfolio-6.jpg"
-                        className="link-preview"
-                        data-lightbox="portfolio"
-                        data-title="Project Name"
-                        title="Preview"
-                      >
-                        <i className="fa fa-eye" />
-                      </a>
-                      <a href="#" className="link-details" title="More Details">
-                        <i className="fa fa-link" />
-                      </a>
-                      <a className="portfolio-title" href="#">
-                        Project Name <span>Digital Marketing</span>
+                        Personal Portfolio <span>Web Development</span>
                       </a>
                     </figure>
                   </div>
@@ -564,18 +532,18 @@ function App() {
                   <div className="review-slider-item">
                     <div className="review-text">
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Sed eu suscipit orci. Donec molestie velit id libero
-                        blandit, quis suscipit urna suscipit. Donec aliquet erat
-                        eu lacinia iaculis. Ut tempor tellus eu sem pharetra
-                        feugiat.
+                        As a dedicated Web developer & designer, I take pride in
+                        my ability to deliver exceptional results tailored to
+                        the unique needs of each client. Here’s what some of my
+                        customers have to say about their experiences working
+                        with me:
                       </p>
                     </div>
                     <div className="review-img">
                       <img src="./assets/img/review-1.jpg" alt="Image" />
                       <div className="review-name">
-                        <h3>Client Name</h3>
-                        <p>Profession</p>
+                        <h3>Christian Aquino</h3>
+                        <p>Professor</p>
                       </div>
                     </div>
                   </div>
@@ -584,39 +552,28 @@ function App() {
                   <div className="review-slider-item">
                     <div className="review-text">
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Sed eu suscipit orci. Donec molestie velit id libero
-                        blandit, quis suscipit urna suscipit. Donec aliquet erat
-                        eu lacinia iaculis. Ut tempor tellus eu sem pharetra
-                        feugiat.
-                      </p>
-                    </div>
-                    <div className="review-img">
-                      <img src="./assets/img/review-2.jpg" alt="Image" />
-                      <div className="review-name">
-                        <h3>Client Name</h3>
-                        <p>Profession</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-12">
-                  <div className="review-slider-item">
-                    <div className="review-text">
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Sed eu suscipit orci. Donec molestie velit id libero
-                        blandit, quis suscipit urna suscipit. Donec aliquet erat
-                        eu lacinia iaculis. Ut tempor tellus eu sem pharetra
-                        feugiat.
+                        The design of Daniel's coffee is beautiful, and the
+                        color chosen is right.
                       </p>
                     </div>
                     <div className="review-img">
                       <img src="./assets/img/review-3.jpg" alt="Image" />
                       <div className="review-name">
-                        <h3>Client Name</h3>
-                        <p>Profession</p>
+                        <h3>Ronmar Calingasan</h3>
+                        <p>Professor</p>
                       </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="col-md-12">
+                  <div className="review-slider-item">
+                    <div className="review-text">
+                      <p>
+                        It's okay that the projects that I passed on to him and
+                        the development of our Daniel's coffee are the same as
+                        the ones we designed and that we achieved what was
+                        needed in the requirements
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -733,23 +690,7 @@ function App() {
           </div>
           {/* Contact End */}
           {/* Footer Start */}
-          <div className="footer">
-            <div className="content-inner">
-              <div className="row align-items-center">
-                <div className="col-md-6">
-                  <p>
-                    © Copyright <a href="https://htmlcodex.com">HTML Codex</a>.
-                    All Rights Reserved
-                  </p>
-                </div>
-                <div className="col-md-6">
-                  <p>
-                    Powered by <a href="https://htmlcodex.com">HTML Codex</a>
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
+
           {/* Footer Start */}
         </div>
       </div>
