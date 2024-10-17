@@ -62,13 +62,13 @@ function App() {
             </nav>
           </div>
           <div className="sidebar-footer">
-            <a href="#">
-              <i className="fab fa-twitter" />
+            <a href="https://www.instagram.com/graffphic/">
+              <i className="fab fa-instagram" />
             </a>
-            <a href="#">
+            <a href="https://www.facebook.com/xdraf56">
               <i className="fab fa-facebook-f" />
             </a>
-            <a href="#">
+            <a href="https://www.linkedin.com/in/ramos-rafael-3895ab29b/">
               <i className="fab fa-linkedin-in" />
             </a>
           </div>
@@ -90,7 +90,7 @@ function App() {
           {/* Large Button Start */}
           <div className="large-btn">
             <div className="content-inner">
-              <a className="btn" href="#">
+              <a className="btn" href="/Resume.pdf">
                 <i className="fa fa-download" />
                 Resume
               </a>
@@ -651,16 +651,28 @@ function App() {
                       <a className="btn" href="">
                         <i className="fab fa-twitter" />
                       </a>
-                      <a className="btn" href="">
+                      <a
+                        className="btn"
+                        href="https://www.facebook.com/xdraf56"
+                      >
                         <i className="fab fa-facebook-f" />
                       </a>
-                      <a className="btn" href="">
+                      <a
+                        className="btn"
+                        href="https://www.linkedin.com/in/ramos-rafael-3895ab29b/"
+                      >
                         <i className="fab fa-linkedin-in" />
                       </a>
-                      <a className="btn" href="">
+                      <a
+                        className="btn"
+                        href="https://www.instagram.com/graffphic/"
+                      >
                         <i className="fab fa-instagram" />
                       </a>
-                      <a className="btn" href="">
+                      <a
+                        className="btn"
+                        href="https://www.youtube.com/@mscthrpy"
+                      >
                         <i className="fab fa-youtube" />
                       </a>
                     </div>
