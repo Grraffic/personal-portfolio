@@ -477,7 +477,7 @@ function App() {
                         <i className="fa fa-eye" />
                       </a>
                       <a
-                        href="https://github.com/Grraffic/Danie-s-Coffee"
+                        href="https://danielscof.netlify.app/"
                         className="link-details"
                         title="More Details"
                       >
