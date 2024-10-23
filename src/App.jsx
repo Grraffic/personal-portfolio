@@ -94,7 +94,7 @@ function App() {
             <div className="content-inner">
               <a className="btn" href="Resume.pdf" download>
                 <i className="fa fa-download" />
-                Resume
+                Download Resume
               </a>
               <a className="btn" href="https://github.com/Grraffic">
                 <i className="fa fa-hands-helping" />
