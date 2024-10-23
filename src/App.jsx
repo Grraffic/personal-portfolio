@@ -92,7 +92,7 @@ function App() {
           {/* Large Button Start */}
           <div className="large-btn">
             <div className="content-inner">
-              <a className="btn" href="Resume.pdf" download>
+              <a className="btn" href="/Resume.pdf" download>
                 <i className="fa fa-download" />
                 Resume
               </a>
@@ -514,7 +514,7 @@ function App() {
                         <i className="fa fa-link" />
                       </a>
                       <a className="portfolio-title" href="#">
-                        Daniel's Coffee Website <span>Web Design</span>
+                        Daniel's Coffee Design <span>Web Design</span>
                       </a>
                     </figure>
                   </div>
