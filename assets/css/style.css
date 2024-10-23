@@ -15,7 +15,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #ff6f61;
+  color: #f6d155;
   outline: none;
   text-decoration: none;
 }
@@ -282,7 +282,7 @@ a:focus {
 }
 
 .back-to-top i:hover {
-  color: #ff6f61;
+  color: #f6d155;
 }
 
 .back-to-top {
@@ -495,7 +495,7 @@ a:focus {
 
 .about .progress .progress-bar {
   width: 1px;
-  background: #f6d155;
+  background: #020617;
   border-radius: 0;
   transition: 1s;
 }
@@ -559,7 +559,7 @@ a:focus {
 }
 
 .education .edu-col span i {
-  color: #ff6f61;
+  color: #f6d155;
 }
 
 .education .edu-col h3 {
@@ -822,10 +822,10 @@ a:focus {
   right: 0;
   top: 100%;
   padding: 30px 10px;
-  color: #222222;
+  color: #fafafa;
   font-size: 16px;
   font-weight: 600;
-  background: rgba(255, 111, 97, 0.5);
+  background: rgba(246, 246, 27, 0.533);
   border-radius: 0;
 }
 
@@ -839,6 +839,7 @@ a:focus {
   font-family: "Open Sans", sans-serif;
   font-size: 13px;
   font-weight: 300;
+  color: #020617;
 }
 
 .portfolio .portfolio-item figure:hover .link-preview {
@@ -907,7 +908,7 @@ a:focus {
 }
 
 .review .review-text .ratting i {
-  color: #ff6f61;
+  color: #f6d155;
   font-size: 14px;
 }
 
@@ -958,7 +959,7 @@ a:focus {
 .review-slider .slick-prev:focus::before,
 .review-slider .slick-next:hover::before,
 .review-slider .slick-next:focus::before {
-  color: #ff6f61;
+  color: #f6d155;
 }
 
 .review-slider .slick-prev::before,
@@ -987,7 +988,7 @@ a:focus {
 }
 
 .review-slider .slick-dots li.slick-active button:before {
-  color: #ff6f61;
+  color: #f6d155;
 }
 
 .review-slider.slick-slider {
