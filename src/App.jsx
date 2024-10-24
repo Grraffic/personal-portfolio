@@ -4,7 +4,7 @@ function App() {
       <div className="wrapper">
         <div className="sidebar">
           <div className="sidebar-header">
-            <img src="./assets/img/Raf.jpg" alt="Image" />
+            <img src="/assets/img/Raf.jpg" alt="Image" />
           </div>
           <div className="sidebar-content">
             <nav className="navbar navbar-expand-md bg-dark navbar-dark">
