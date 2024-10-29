@@ -32,6 +32,12 @@ function sidebar() {
                 </a>
               </li>
               <li className="nav-item">
+                <a className="nav-link" href="#education">
+                  Resume
+                  <i className="fa-solid fa-file"></i>
+                </a>
+              </li>
+              <li className="nav-item">
                 <a className="nav-link" href="#experience">
                   Experience
                   <i className="fa fa-star" />
